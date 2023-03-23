@@ -116,5 +116,4 @@ Click the below button to watch the video tutorial on deploying
 This Repo Is Just A Custom Fork Of Yukki.
 </details> 
 
-[Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/syahrizalemano/testm/blob/TamilBots)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/syahrizalemano/testm/edit/TamilBots)
